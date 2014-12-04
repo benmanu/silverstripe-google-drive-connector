@@ -37,8 +37,8 @@ OpauthAuthenticator:
     #Including any extra config
     Strategy:
       Google:
-        client_id: '335118729113-62lcacqleb9e0jq9jiml8l9uh2vbsh3e.apps.googleusercontent.com'
-        client_secret: 'IbzQChY3VXmUcsfKWXQqZYIf'
+        client_id: ''
+        client_secret: ''
     security_salt: 'correct horse battery staple'
     security_iteration: 500
     security_timeout: '2 minutes'
