@@ -1,0 +1,6 @@
+---
+Name: google-drive-connector
+After:
+  - 'framework/*'
+  - 'cms/*'
+---

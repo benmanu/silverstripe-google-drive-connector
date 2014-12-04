@@ -1,0 +1,7 @@
+---
+Name: app
+After: framework/routes#coreroutes
+---
+Director:
+  rules:
+    'googleconnector': 'GoogleDriveController'
